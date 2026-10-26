@@ -1,0 +1,33 @@
+# Keil MDK build outputs
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.lnp
+*.sct
+*.dep
+*.iex
+*.htm
+*.build_log.htm
+*.bak
+*.uvguix.*
+*.uvoptx
+*.scvd
+*.dbgconf
+*.uvprojx.bak
+
+# Claude Code local settings
+.claude/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
